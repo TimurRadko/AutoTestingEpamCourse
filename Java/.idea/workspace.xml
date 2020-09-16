@@ -1,12 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45cc4b47-7570-4b3b-80b5-fe22dbe79226" name="Default Changelist" comment="" />
+    <list default="true" id="45cc4b47-7570-4b3b-80b5-fe22dbe79226" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/CONTRIBUTORS.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/JS/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/JS/Airport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/JS/Planes/MilitaryPlane.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/JS/Planes/MyPlane.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/JS/Planes/PassengerPlane.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/JS/Planes/Plane.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/JS/Planes/experimentalPlane.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/JS/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/JS/models/ExperimentalTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/JS/models/classificationLevel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/JS/models/militaryType.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/JS/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/JS/test/airport.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/Java/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/Java/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/Java/src/main/java/Airport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/Java/src/main/java/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/Java/src/main/java/models/ClassificationLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/Java/src/main/java/models/ExperimentalTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/Java/src/main/java/models/MilitaryType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/Java/src/main/java/planes/ExperimentalPlane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/Java/src/main/java/planes/MilitaryPlane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/Java/src/main/java/planes/MyPlane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/Java/src/main/java/planes/PassengerPlane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/Java/src/main/java/planes/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/Java/src/test/java/AirportTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/Net/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/Net/Aircompany.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/Net/Aircompany/Aircompany.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/Net/Aircompany/Airport.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/Net/Aircompany/App.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/Net/Aircompany/Models/ClassificationLevel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/Net/Aircompany/Models/ExperimentalTypes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/Net/Aircompany/Models/MilitaryType.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/Net/Aircompany/Planes/MilitaryPlane.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/Net/Aircompany/Planes/PassengerPlane.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/Net/Aircompany/Planes/Plane.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/Net/Aircompany/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/Net/Aircompany/Runner.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/Net/AircompanyTests/AircompanyTests.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/Net/AircompanyTests/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/Net/AircompanyTests/Tests/AirportTest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/Net/AircompanyTests/packages.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CleanCode/aircompany/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -16,9 +74,15 @@
     </option>
   </component>
   <component name="ProjectId" id="1hSzpRq0ID05YlUOoJ0mwkaS8Yq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CleanCode/aircompany" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -47,10 +111,28 @@
       <updated>1600019463803</updated>
       <workItem from="1600019467148" duration="971000" />
       <workItem from="1600093785924" duration="2039000" />
+      <workItem from="1600189192076" duration="1187000" />
+      <workItem from="1600261704729" duration="1198000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
